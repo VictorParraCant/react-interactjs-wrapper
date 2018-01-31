@@ -1,5 +1,8 @@
 # react-interactjs-wrapper
 
+[![npm version](https://badge.fury.io/js/react-interactjs-wrapper.svg)](https://badge.fury.io/js/react-interactjs-wrapper)
+[![Build Status][travis-image]][travis-url]
+
 ## Install:
 ```
 npm install react-interactjs-wrapper --save
