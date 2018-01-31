@@ -1,7 +1,6 @@
 # react-interactjs-wrapper
 
-[![npm version](https://badge.fury.io/js/react-interactjs-wrapper.svg)](https://badge.fury.io/js/react-interactjs-wrapper)
-[![Build Status][travis-image]][travis-url]
+[![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
 ## Install:
 ```
@@ -50,6 +49,14 @@ const example = (
 render(example, document.getElementById('container'));
 ```
 
+---
+
 ## License:
 
 [MIT](https://github.com/VictorParraCant/react-interactjs-wrapper/blob/master/LICENSE)
+
+
+[npm-image]: https://badge.fury.io/js/react-interactjs-wrapper.svg
+[npm-url]: https://badge.fury.io/js/react-interactjs-wrapper
+[travis-image]: https://travis-ci.org/VictorParraCant/react-interactjs-wrapper.svg?branch=master
+[travis-url]: https://travis-ci.org/VictorParraCant/react-interactjs-wrapper
